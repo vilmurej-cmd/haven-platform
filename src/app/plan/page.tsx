@@ -26,7 +26,7 @@ const sections = [
     title: 'Understanding Abuse',
     description: "What's happening to you has a name",
     icon: Heart,
-    href: '/plan/understand',
+    href: '/plan/understanding-abuse',
     color: 'text-haven-purple',
   },
   {
