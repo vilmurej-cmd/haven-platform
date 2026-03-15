@@ -1,0 +1,100 @@
+{
+  "nav": {
+    "home": "首页",
+    "helpNow": "我现在需要帮助",
+    "plan": "我需要计划",
+    "about": "关于",
+    "privacy": "隐私",
+    "terms": "条款",
+    "network": "资源",
+    "shelterFinder": "寻找庇护所",
+    "dangerAssessment": "危险评估",
+    "lawEnforcement": "执法资源"
+  },
+  "home": {
+    "youAreSafeHere": "你在这里是安全的。",
+    "noTrace": "此页面不会在您的设备上留下任何痕迹。没有人会知道你来过这里。",
+    "iNeedHelpNow": "我现在需要帮助",
+    "iNeedToPlan": "我需要计划",
+    "emergencyResources": "紧急资源、求助热线、无声求救",
+    "safetyPlanning": "安全计划、法律帮助、资源、康复",
+    "escapeHint": "随时双击Escape键可立即离开此页面。右上角的X按钮也可以。",
+    "hotline": "全国家暴热线：1-800-799-7233"
+  },
+  "helpNow": {
+    "title": "你并不孤单",
+    "call911": "拨打911",
+    "callHotline": "拨打求助热线",
+    "silentSOS": "无声求救",
+    "textStart": "发送START到88788",
+    "findShelter": "寻找附近庇护所",
+    "findHospital": "最近的医院",
+    "findPolice": "最近的警察局"
+  },
+  "plan": {
+    "title": "慢慢来。你在这里是安全的。",
+    "safetyPlan": "安全计划",
+    "safetyPlanDesc": "一步一步建立您的个人安全计划",
+    "understandingAbuse": "了解虐待",
+    "understandingAbuseDesc": "虐待类型、警告信号和暴力循环",
+    "legalResources": "法律资源",
+    "legalResourcesDesc": "保护令、监护权、移民权利",
+    "financialIndependence": "经济独立",
+    "financialIndependenceDesc": "应急资金、证件、政府援助",
+    "childrenAndTeens": "儿童与青少年",
+    "childrenAndTeensDesc": "适龄支持和青少年约会暴力",
+    "healingAndRecovery": "康复与疗愈",
+    "healingAndRecoveryDesc": "创伤恢复、扎根练习、寻找治疗师",
+    "evidenceDocumentation": "证据记录",
+    "evidenceDocumentationDesc": "安全地记录和整理证据",
+    "dangerAssessment": "危险评估",
+    "dangerAssessmentDesc": "评估您的风险级别"
+  },
+  "safety": {
+    "safetyPlanBuilder": "安全计划构建器",
+    "safePeople": "安全的人",
+    "codeWord": "暗号",
+    "goBag": "应急包",
+    "escapeRoute": "逃生路线",
+    "childrenSafety": "儿童安全",
+    "digitalSafety": "数字安全"
+  },
+  "shelter": {
+    "title": "寻找您附近的庇护所",
+    "searchPlaceholder": "输入您的邮编或城市",
+    "search": "搜索",
+    "callBeforeVisiting": "请务必在访问前致电。庇护所的位置出于安全考虑通常是保密的。",
+    "acceptsChildren": "接受儿童",
+    "acceptsPets": "接受宠物",
+    "bilingual": "双语工作人员",
+    "adaAccessible": "无障碍设施"
+  },
+  "danger": {
+    "title": "危险评估",
+    "privacy": "您的回答不会被保存。您的设备上不存储任何内容。",
+    "begin": "开始评估",
+    "yourRisk": "您的风险级别",
+    "callHotline": "立即拨打求助热线",
+    "retake": "重新评估"
+  },
+  "common": {
+    "callNow": "立即拨打",
+    "learnMore": "了解更多",
+    "back": "返回",
+    "next": "下一步",
+    "search": "搜索",
+    "close": "关闭",
+    "youAreNotAlone": "你并不孤单。",
+    "itsNotYourFault": "这不是你的错。",
+    "exitQuickly": "快速退出",
+    "safetyWarning": "如果您处于紧急危险中，请拨打911。",
+    "nothingIsSaved": "不保存任何内容。您的访问不留痕迹。",
+    "vilmureVentures": "Vilmure Ventures 旗下公司"
+  },
+  "language": {
+    "selectLanguage": "选择语言",
+    "searchLanguages": "搜索语言...",
+    "popular": "热门",
+    "allLanguages": "所有语言"
+  }
+}

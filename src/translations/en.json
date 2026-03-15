@@ -1,0 +1,100 @@
+{
+  "nav": {
+    "home": "Home",
+    "helpNow": "I Need Help Now",
+    "plan": "I Need to Plan",
+    "about": "About",
+    "privacy": "Privacy",
+    "terms": "Terms",
+    "network": "Resources",
+    "shelterFinder": "Find a Shelter",
+    "dangerAssessment": "Danger Assessment",
+    "lawEnforcement": "Law Enforcement"
+  },
+  "home": {
+    "youAreSafeHere": "You are safe here.",
+    "noTrace": "This page leaves no trace on your device. No one will know you were here.",
+    "iNeedHelpNow": "I Need Help Now",
+    "iNeedToPlan": "I Need to Plan",
+    "emergencyResources": "Emergency resources, hotlines, silent SOS",
+    "safetyPlanning": "Safety planning, legal help, resources, healing",
+    "escapeHint": "Double-tap Escape at any time to instantly leave this page. The X in the top corner does the same.",
+    "hotline": "National DV Hotline: 1-800-799-7233"
+  },
+  "helpNow": {
+    "title": "You Are Not Alone",
+    "call911": "Call 911",
+    "callHotline": "Call the Hotline",
+    "silentSOS": "Silent SOS",
+    "textStart": "Text START to 88788",
+    "findShelter": "Find Nearby Shelter",
+    "findHospital": "Nearest Hospital",
+    "findPolice": "Nearest Police Station"
+  },
+  "plan": {
+    "title": "Take Your Time. You Are Safe Here.",
+    "safetyPlan": "Safety Planning",
+    "safetyPlanDesc": "Build your personal safety plan step by step",
+    "understandingAbuse": "Understanding Abuse",
+    "understandingAbuseDesc": "Types of abuse, warning signs, and the cycle of violence",
+    "legalResources": "Legal Resources",
+    "legalResourcesDesc": "Protective orders, custody, immigration rights",
+    "financialIndependence": "Financial Independence",
+    "financialIndependenceDesc": "Emergency funds, documents, government assistance",
+    "childrenAndTeens": "Children & Teens",
+    "childrenAndTeensDesc": "Age-appropriate support and teen dating violence",
+    "healingAndRecovery": "Healing & Recovery",
+    "healingAndRecoveryDesc": "Trauma recovery, grounding exercises, finding a therapist",
+    "evidenceDocumentation": "Evidence Documentation",
+    "evidenceDocumentationDesc": "Safely document and organize evidence",
+    "dangerAssessment": "Danger Assessment",
+    "dangerAssessmentDesc": "Assess your level of risk"
+  },
+  "safety": {
+    "safetyPlanBuilder": "Safety Plan Builder",
+    "safePeople": "Safe People",
+    "codeWord": "Code Word",
+    "goBag": "Go Bag",
+    "escapeRoute": "Escape Route",
+    "childrenSafety": "Children's Safety",
+    "digitalSafety": "Digital Safety"
+  },
+  "shelter": {
+    "title": "Find a Shelter Near You",
+    "searchPlaceholder": "Enter your ZIP code or city",
+    "search": "Search",
+    "callBeforeVisiting": "Always call before visiting. Shelter locations are often confidential for safety.",
+    "acceptsChildren": "Accepts Children",
+    "acceptsPets": "Accepts Pets",
+    "bilingual": "Bilingual Staff",
+    "adaAccessible": "ADA Accessible"
+  },
+  "danger": {
+    "title": "Danger Assessment",
+    "privacy": "Your answers are NOT saved. Nothing is stored on your device.",
+    "begin": "Begin Assessment",
+    "yourRisk": "Your Risk Level",
+    "callHotline": "Call the Hotline Now",
+    "retake": "Retake Assessment"
+  },
+  "common": {
+    "callNow": "Call Now",
+    "learnMore": "Learn More",
+    "back": "Back",
+    "next": "Next",
+    "search": "Search",
+    "close": "Close",
+    "youAreNotAlone": "You are not alone.",
+    "itsNotYourFault": "It is not your fault.",
+    "exitQuickly": "Exit quickly",
+    "safetyWarning": "If you are in immediate danger, call 911.",
+    "nothingIsSaved": "Nothing is saved. Your visit leaves no trace.",
+    "vilmureVentures": "A Vilmure Ventures Company"
+  },
+  "language": {
+    "selectLanguage": "Select Language",
+    "searchLanguages": "Search languages...",
+    "popular": "Popular",
+    "allLanguages": "All Languages"
+  }
+}

@@ -1,0 +1,100 @@
+{
+  "nav": {
+    "home": "Inicio",
+    "helpNow": "Necesito Ayuda Ahora",
+    "plan": "Necesito Planificar",
+    "about": "Acerca de",
+    "privacy": "Privacidad",
+    "terms": "Términos",
+    "network": "Recursos",
+    "shelterFinder": "Encontrar un Refugio",
+    "dangerAssessment": "Evaluación de Peligro",
+    "lawEnforcement": "Fuerzas del Orden"
+  },
+  "home": {
+    "youAreSafeHere": "Estás segura aquí.",
+    "noTrace": "Esta página no deja rastro en tu dispositivo. Nadie sabrá que estuviste aquí.",
+    "iNeedHelpNow": "Necesito Ayuda Ahora",
+    "iNeedToPlan": "Necesito Planificar",
+    "emergencyResources": "Recursos de emergencia, líneas de ayuda, SOS silencioso",
+    "safetyPlanning": "Plan de seguridad, ayuda legal, recursos, sanación",
+    "escapeHint": "Toca Escape dos veces en cualquier momento para salir de esta página. La X en la esquina hace lo mismo.",
+    "hotline": "Línea Nacional de VD: 1-800-799-7233"
+  },
+  "helpNow": {
+    "title": "No Estás Sola",
+    "call911": "Llamar al 911",
+    "callHotline": "Llamar a la Línea de Ayuda",
+    "silentSOS": "SOS Silencioso",
+    "textStart": "Envía START al 88788",
+    "findShelter": "Encontrar Refugio Cercano",
+    "findHospital": "Hospital Más Cercano",
+    "findPolice": "Comisaría Más Cercana"
+  },
+  "plan": {
+    "title": "Tómate tu tiempo. Estás segura aquí.",
+    "safetyPlan": "Plan de Seguridad",
+    "safetyPlanDesc": "Construye tu plan de seguridad personal paso a paso",
+    "understandingAbuse": "Entendiendo el Abuso",
+    "understandingAbuseDesc": "Tipos de abuso, señales de alerta y el ciclo de violencia",
+    "legalResources": "Recursos Legales",
+    "legalResourcesDesc": "Órdenes de protección, custodia, derechos de inmigración",
+    "financialIndependence": "Independencia Financiera",
+    "financialIndependenceDesc": "Fondos de emergencia, documentos, asistencia gubernamental",
+    "childrenAndTeens": "Niños y Adolescentes",
+    "childrenAndTeensDesc": "Apoyo apropiado para la edad y violencia en el noviazgo adolescente",
+    "healingAndRecovery": "Sanación y Recuperación",
+    "healingAndRecoveryDesc": "Recuperación del trauma, ejercicios de enraizamiento, encontrar un terapeuta",
+    "evidenceDocumentation": "Documentación de Evidencia",
+    "evidenceDocumentationDesc": "Documenta y organiza evidencia de forma segura",
+    "dangerAssessment": "Evaluación de Peligro",
+    "dangerAssessmentDesc": "Evalúa tu nivel de riesgo"
+  },
+  "safety": {
+    "safetyPlanBuilder": "Constructor de Plan de Seguridad",
+    "safePeople": "Personas Seguras",
+    "codeWord": "Palabra Clave",
+    "goBag": "Bolsa de Emergencia",
+    "escapeRoute": "Ruta de Escape",
+    "childrenSafety": "Seguridad de los Niños",
+    "digitalSafety": "Seguridad Digital"
+  },
+  "shelter": {
+    "title": "Encuentra un Refugio Cerca de Ti",
+    "searchPlaceholder": "Ingresa tu código postal o ciudad",
+    "search": "Buscar",
+    "callBeforeVisiting": "Siempre llama antes de visitar. Las ubicaciones de los refugios son confidenciales por seguridad.",
+    "acceptsChildren": "Acepta Niños",
+    "acceptsPets": "Acepta Mascotas",
+    "bilingual": "Personal Bilingüe",
+    "adaAccessible": "Accesible ADA"
+  },
+  "danger": {
+    "title": "Evaluación de Peligro",
+    "privacy": "Tus respuestas NO se guardan. Nada se almacena en tu dispositivo.",
+    "begin": "Comenzar Evaluación",
+    "yourRisk": "Tu Nivel de Riesgo",
+    "callHotline": "Llama a la Línea de Ayuda Ahora",
+    "retake": "Repetir Evaluación"
+  },
+  "common": {
+    "callNow": "Llamar Ahora",
+    "learnMore": "Más Información",
+    "back": "Atrás",
+    "next": "Siguiente",
+    "search": "Buscar",
+    "close": "Cerrar",
+    "youAreNotAlone": "No estás sola.",
+    "itsNotYourFault": "No es tu culpa.",
+    "exitQuickly": "Salir rápidamente",
+    "safetyWarning": "Si estás en peligro inmediato, llama al 911.",
+    "nothingIsSaved": "Nada se guarda. Tu visita no deja rastro.",
+    "vilmureVentures": "Una Empresa de Vilmure Ventures"
+  },
+  "language": {
+    "selectLanguage": "Seleccionar Idioma",
+    "searchLanguages": "Buscar idiomas...",
+    "popular": "Populares",
+    "allLanguages": "Todos los Idiomas"
+  }
+}
