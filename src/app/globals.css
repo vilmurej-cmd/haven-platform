@@ -29,58 +29,58 @@
   --color-border-light: #F3F4F6;
 }
 
-* { box-sizing: border-box; }
+@layer base {
+  body {
+    background: #FFFBF5;
+    color: #374151;
+    font-family: 'Inter', system-ui, sans-serif;
+    line-height: 2.0;
+    font-size: 18px;
+  }
 
-body {
-  background: #FFFBF5;
-  color: #374151;
-  font-family: 'Inter', system-ui, sans-serif;
-  line-height: 2.0;
-  font-size: 18px;
+  h1, h2, h3, h4, h5, h6 {
+    font-family: 'Lora', Georgia, serif;
+    line-height: 1.3;
+  }
+
+  :focus-visible {
+    outline: 3px solid #7C3AED;
+    outline-offset: 2px;
+    border-radius: 4px;
+  }
+
+  ::-webkit-scrollbar { width: 6px; }
+  ::-webkit-scrollbar-track { background: #FFFBF5; }
+  ::-webkit-scrollbar-thumb { background: #D1D5DB; border-radius: 3px; }
+  ::-webkit-scrollbar-thumb:hover { background: #9CA3AF; }
 }
 
-h1, h2, h3, h4, h5, h6 {
-  font-family: 'Lora', Georgia, serif;
-  line-height: 1.3;
+@layer components {
+  .font-serif { font-family: 'Lora', Georgia, serif; }
+  .font-sans { font-family: 'Inter', system-ui, sans-serif; }
+
+  .animate-panic-pulse { animation: panic-pulse 2s ease-in-out infinite; }
+  .animate-gentle-breathe { animation: gentle-breathe 4s ease-in-out infinite; }
+  .animate-safe-fade-in { animation: safe-fade-in 0.5s ease-out forwards; }
 }
 
-.font-serif { font-family: 'Lora', Georgia, serif; }
-.font-sans { font-family: 'Inter', system-ui, sans-serif; }
-
+/* ---- Keyframes ---- */
 @keyframes panic-pulse {
   0%, 100% { opacity: 0.7; }
   50% { opacity: 1; }
 }
-.animate-panic-pulse { animation: panic-pulse 2s ease-in-out infinite; }
 
 @keyframes gentle-breathe {
   0%, 100% { transform: scale(1); }
   50% { transform: scale(1.05); }
 }
-.animate-gentle-breathe { animation: gentle-breathe 4s ease-in-out infinite; }
 
 @keyframes safe-fade-in {
   from { opacity: 0; transform: translateY(8px); }
   to { opacity: 1; transform: translateY(0); }
 }
-.animate-safe-fade-in { animation: safe-fade-in 0.5s ease-out forwards; }
 
-:focus-visible {
-  outline: 3px solid #7C3AED;
-  outline-offset: 2px;
-  border-radius: 4px;
-}
-
-::-webkit-scrollbar { width: 6px; }
-::-webkit-scrollbar-track { background: #FFFBF5; }
-::-webkit-scrollbar-thumb { background: #D1D5DB; border-radius: 3px; }
-::-webkit-scrollbar-thumb:hover { background: #9CA3AF; }
-
-button, a, [role="button"] {
-  min-height: 44px;
-  min-width: 44px;
-}
-
+/* ---- Media Queries ---- */
 @media print {
   .no-print { display: none !important; }
   body { background: white; color: black; font-size: 14px; line-height: 1.6; }
